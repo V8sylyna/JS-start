@@ -1,4 +1,4 @@
-const name = "Anna";
+const userName = "Anna";
 const surName = "Jackson";
 const age = 24; 
 const email = "anna.something@gmail.com";
